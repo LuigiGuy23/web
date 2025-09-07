@@ -1,6 +1,6 @@
 body{
 
-    background-image: url('pocketstation.JPG');
+    background-image: url('./pocketstation.JPG');
     background-repeat: no-repeat;
     background-position: center;
     background-attachment: fixed;
