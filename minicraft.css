@@ -1,0 +1,9 @@
+body{
+
+    background-image: url('./stone.png');
+    background-repeat: repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: repeat;
+
+}
